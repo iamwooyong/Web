@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        loadWebPage("http://naver.com")
+        loadWebPage("http://www.naver.com")
     }
 
     @IBAction func btnGotoUrl(_ sender: UIButton) {
